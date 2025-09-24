@@ -3,11 +3,11 @@ License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](
 LICENSE)
 <br />
 <div align="center">
-    kindness use <a href="https://github.com/Shougo/deoplete.nvim">deoplete.nvim</a>
+   Use <a href="https://github.com/Shougo/deoplete.nvim">deoplete.nvim</a>
 </div>
 <br />
 <div align="center">
-    <b> mikiri is deoplete-ruby2 clone </b>
+    <b> deoplete-java is deoplete-ruby2 clone </b>
 </div>
 <br />
 <div align="center">
