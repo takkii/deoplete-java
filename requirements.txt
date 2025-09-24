@@ -1,0 +1,6 @@
+msgpack-python
+msgpack
+numpy
+pynvim
+types-PyYAML
+polars
